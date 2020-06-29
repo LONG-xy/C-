@@ -1,4 +1,4 @@
-﻿namespace DormManagementApp2._0.View.CallAtService
+﻿namespace DormManagementApp
 {
     partial class AddCallAtApplication
     {
@@ -43,9 +43,10 @@
             // AddDelete
             // 
             this.AddDelete.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.AddDelete.Location = new System.Drawing.Point(291, 483);
+            this.AddDelete.Location = new System.Drawing.Point(256, 294);
+            this.AddDelete.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.AddDelete.Name = "AddDelete";
-            this.AddDelete.Size = new System.Drawing.Size(114, 36);
+            this.AddDelete.Size = new System.Drawing.Size(109, 36);
             this.AddDelete.TabIndex = 0;
             this.AddDelete.Text = "取消";
             this.AddDelete.UseVisualStyleBackColor = true;
@@ -54,9 +55,10 @@
             // AddOK
             // 
             this.AddOK.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.AddOK.Location = new System.Drawing.Point(70, 483);
+            this.AddOK.Location = new System.Drawing.Point(136, 294);
+            this.AddOK.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.AddOK.Name = "AddOK";
-            this.AddOK.Size = new System.Drawing.Size(114, 36);
+            this.AddOK.Size = new System.Drawing.Size(115, 36);
             this.AddOK.TabIndex = 1;
             this.AddOK.Text = "确认";
             this.AddOK.UseVisualStyleBackColor = true;
@@ -65,15 +67,16 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(48, 57);
+            this.label1.Location = new System.Drawing.Point(29, 42);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(82, 15);
+            this.label1.Size = new System.Drawing.Size(97, 15);
             this.label1.TabIndex = 2;
-            this.label1.Text = "来访者姓名";
+            this.label1.Text = "来访者姓名：";
             // 
             // VisitorName
             // 
-            this.VisitorName.Location = new System.Drawing.Point(149, 54);
+            this.VisitorName.Location = new System.Drawing.Point(137, 39);
+            this.VisitorName.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.VisitorName.Name = "VisitorName";
             this.VisitorName.Size = new System.Drawing.Size(228, 25);
             this.VisitorName.TabIndex = 3;
@@ -81,24 +84,25 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(63, 130);
+            this.label2.Location = new System.Drawing.Point(44, 84);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(67, 15);
+            this.label2.Size = new System.Drawing.Size(82, 15);
             this.label2.TabIndex = 4;
-            this.label2.Text = "来访时间";
+            this.label2.Text = "来访时间：";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(78, 212);
+            this.label3.Location = new System.Drawing.Point(60, 121);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(52, 15);
+            this.label3.Size = new System.Drawing.Size(67, 15);
             this.label3.TabIndex = 5;
-            this.label3.Text = "宿舍号";
+            this.label3.Text = "宿舍号：";
             // 
             // Room
             // 
-            this.Room.Location = new System.Drawing.Point(149, 209);
+            this.Room.Location = new System.Drawing.Point(136, 115);
+            this.Room.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Room.Name = "Room";
             this.Room.Size = new System.Drawing.Size(228, 25);
             this.Room.TabIndex = 6;
@@ -106,15 +110,16 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(93, 307);
+            this.label4.Location = new System.Drawing.Point(77, 155);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(37, 15);
+            this.label4.Size = new System.Drawing.Size(52, 15);
             this.label4.TabIndex = 8;
-            this.label4.Text = "备注";
+            this.label4.Text = "备注：";
             // 
             // Remarks
             // 
-            this.Remarks.Location = new System.Drawing.Point(149, 304);
+            this.Remarks.Location = new System.Drawing.Point(137, 155);
+            this.Remarks.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Remarks.Name = "Remarks";
             this.Remarks.Size = new System.Drawing.Size(228, 114);
             this.Remarks.TabIndex = 10;
@@ -123,7 +128,8 @@
             // dateTimePicker
             // 
             this.dateTimePicker.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dateTimePicker.Location = new System.Drawing.Point(149, 123);
+            this.dateTimePicker.Location = new System.Drawing.Point(137, 76);
+            this.dateTimePicker.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dateTimePicker.Name = "dateTimePicker";
             this.dateTimePicker.Size = new System.Drawing.Size(228, 25);
             this.dateTimePicker.TabIndex = 11;
@@ -132,7 +138,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(471, 561);
+            this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.ClientSize = new System.Drawing.Size(440, 344);
             this.Controls.Add(this.dateTimePicker);
             this.Controls.Add(this.Remarks);
             this.Controls.Add(this.label4);
@@ -143,6 +150,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.AddOK);
             this.Controls.Add(this.AddDelete);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "AddCallAtApplication";
             this.Text = "添加来访申请";
             this.ResumeLayout(false);

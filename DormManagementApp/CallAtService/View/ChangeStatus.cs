@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using DormManagementApp;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -11,16 +12,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DormManagementApp2._0
+namespace DormManagementApp
 {
     public partial class ChangeStatus : Form
     {
+        CallAtApplication current = new CallAtApplication();
         public int CurrentID { get; set; }
-        CallAtApplication current;
         string baseURL;
         public ChangeStatus()
         {
             InitializeComponent();
+            current.Status = false;
+            current.IsApproved = false;
             baseURL = "https://localhost:5001/api/CallAtApplicationItems/" + CurrentID.ToString();
             HttpClient client = new HttpClient();
             client.DefaultRequestHeaders.Accept.Clear();
@@ -40,11 +43,12 @@ namespace DormManagementApp2._0
                 }
                 else CallAtDenied.Checked = true;
             }
+
         }
 
         private void CheckOK_Click(object sender, EventArgs e)
         {
-            if(current.Status == true)
+            if (current.Status == true)
             {
                 this.Close();
             }
@@ -52,7 +56,7 @@ namespace DormManagementApp2._0
             {
                 if (CallAtApproved.Checked == true)
                 {
-                    baseURL = "https://localhost:5001/api/CallAtApplicationItems/" + CurrentID.ToString() ;
+                    baseURL = "https://localhost:5001/api/CallAtApplicationItems/" + CurrentID.ToString();
                     HttpClient client = new HttpClient();
                     client.DefaultRequestHeaders.Accept.Clear();
                     client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
@@ -65,7 +69,8 @@ namespace DormManagementApp2._0
                     task.Wait();
                     this.DialogResult = DialogResult.OK;
                     this.Close();
-                }else if (CallAtDenied.Checked == true)
+                }
+                else if (CallAtDenied.Checked == true)
                 {
                     baseURL = "https://localhost:5001/api/CallAtApplicationItems/" + CurrentID.ToString();
                     HttpClient client = new HttpClient();
@@ -86,7 +91,8 @@ namespace DormManagementApp2._0
                     MessageBox.Show("请勾选同意或拒绝，再确认。");
                 }
             }
-            
+
+
         }
 
         private void CallAtApproved_CheckedChanged(object sender, EventArgs e)

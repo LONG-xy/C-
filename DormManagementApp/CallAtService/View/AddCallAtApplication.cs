@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DormManagementApp2._0.View.CallAtService
+namespace DormManagementApp
 {
     public partial class AddCallAtApplication : Form
     {
@@ -29,7 +29,7 @@ namespace DormManagementApp2._0.View.CallAtService
             HttpClient client = new HttpClient();
             client.DefaultRequestHeaders.Accept.Clear();
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-            
+
             if (VisitorName.Text == null || Room.Text == null)
             {
                 MessageBox.Show("信息填写不完整！");
@@ -59,5 +59,7 @@ namespace DormManagementApp2._0.View.CallAtService
             this.DialogResult = DialogResult.Cancel;
             this.Close();
         }
+
+
     }
 }
