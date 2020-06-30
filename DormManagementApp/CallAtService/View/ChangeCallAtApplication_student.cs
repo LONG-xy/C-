@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DormManagementApp2._0.View.CallAtService
+namespace DormManagementApp
 {
     public partial class ChangeCallAtApplication_student : Form
     {
@@ -24,7 +24,7 @@ namespace DormManagementApp2._0.View.CallAtService
             HttpClient client = new HttpClient();
             client.DefaultRequestHeaders.Accept.Clear();
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-            
+
             var task1 = client.GetStringAsync(baseURL);
             List<CallAtApplication> todos = JsonConvert.DeserializeObject<List<CallAtApplication>>(task1.Result);
             application = todos[0];
@@ -34,6 +34,16 @@ namespace DormManagementApp2._0.View.CallAtService
         }
 
         private void ChangeOK_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void ChangeCancle_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void AddOK_Click(object sender, EventArgs e)
         {
             if (application.Status == true)
             {
@@ -65,10 +75,11 @@ namespace DormManagementApp2._0.View.CallAtService
             }
         }
 
-        private void ChangeCancle_Click(object sender, EventArgs e)
+        private void AddDelete_Click(object sender, EventArgs e)
         {
             this.DialogResult = DialogResult.Cancel;
             this.Close();
         }
     }
+
 }

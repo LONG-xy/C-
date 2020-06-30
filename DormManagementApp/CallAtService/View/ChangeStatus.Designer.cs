@@ -1,4 +1,4 @@
-﻿namespace DormManagementApp2._0
+﻿namespace DormManagementApp
 {
     partial class ChangeStatus
     {
@@ -44,9 +44,10 @@
             // 
             // CheckOK
             // 
-            this.CheckOK.Location = new System.Drawing.Point(232, 511);
+            this.CheckOK.Location = new System.Drawing.Point(71, 228);
+            this.CheckOK.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.CheckOK.Name = "CheckOK";
-            this.CheckOK.Size = new System.Drawing.Size(146, 54);
+            this.CheckOK.Size = new System.Drawing.Size(207, 31);
             this.CheckOK.TabIndex = 0;
             this.CheckOK.Text = "确认";
             this.CheckOK.UseVisualStyleBackColor = true;
@@ -55,25 +56,25 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(60, 61);
+            this.label1.Location = new System.Drawing.Point(81, 36);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(97, 15);
+            this.label1.Size = new System.Drawing.Size(52, 15);
             this.label1.TabIndex = 1;
-            this.label1.Text = "来访者姓名：";
+            this.label1.Text = "姓名：";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(75, 139);
+            this.label2.Location = new System.Drawing.Point(81, 70);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(82, 15);
+            this.label2.Size = new System.Drawing.Size(52, 15);
             this.label2.TabIndex = 2;
-            this.label2.Text = "来访时间：";
+            this.label2.Text = "时间：";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(90, 227);
+            this.label3.Location = new System.Drawing.Point(68, 108);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(67, 15);
             this.label3.TabIndex = 3;
@@ -82,7 +83,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(105, 404);
+            this.label4.Location = new System.Drawing.Point(84, 179);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(52, 15);
             this.label4.TabIndex = 4;
@@ -91,7 +92,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(105, 314);
+            this.label5.Location = new System.Drawing.Point(84, 142);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(52, 15);
             this.label5.TabIndex = 5;
@@ -100,7 +101,8 @@
             // CallAtApproved
             // 
             this.CallAtApproved.AutoSize = true;
-            this.CallAtApproved.Location = new System.Drawing.Point(210, 404);
+            this.CallAtApproved.Location = new System.Drawing.Point(144, 178);
+            this.CallAtApproved.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.CallAtApproved.Name = "CallAtApproved";
             this.CallAtApproved.Size = new System.Drawing.Size(59, 19);
             this.CallAtApproved.TabIndex = 6;
@@ -111,7 +113,8 @@
             // CallAtDenied
             // 
             this.CallAtDenied.AutoSize = true;
-            this.CallAtDenied.Location = new System.Drawing.Point(384, 404);
+            this.CallAtDenied.Location = new System.Drawing.Point(232, 178);
+            this.CallAtDenied.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.CallAtDenied.Name = "CallAtDenied";
             this.CallAtDenied.Size = new System.Drawing.Size(59, 19);
             this.CallAtDenied.TabIndex = 7;
@@ -122,25 +125,25 @@
             // NameLable
             // 
             this.NameLable.AutoSize = true;
-            this.NameLable.Location = new System.Drawing.Point(207, 61);
+            this.NameLable.Location = new System.Drawing.Point(144, 36);
             this.NameLable.Name = "NameLable";
-            this.NameLable.Size = new System.Drawing.Size(55, 15);
+            this.NameLable.Size = new System.Drawing.Size(37, 15);
             this.NameLable.TabIndex = 8;
-            this.NameLable.Text = "Alishy";
+            this.NameLable.Text = "张三";
             // 
             // TimeLable
             // 
             this.TimeLable.AutoSize = true;
-            this.TimeLable.Location = new System.Drawing.Point(207, 139);
+            this.TimeLable.Location = new System.Drawing.Point(144, 70);
             this.TimeLable.Name = "TimeLable";
-            this.TimeLable.Size = new System.Drawing.Size(87, 15);
+            this.TimeLable.Size = new System.Drawing.Size(111, 15);
             this.TimeLable.TabIndex = 9;
-            this.TimeLable.Text = "6.18 15:00";
+            this.TimeLable.Text = "19/6/18 13:20";
             // 
             // RoomLable
             // 
             this.RoomLable.AutoSize = true;
-            this.RoomLable.Location = new System.Drawing.Point(207, 227);
+            this.RoomLable.Location = new System.Drawing.Point(144, 108);
             this.RoomLable.Name = "RoomLable";
             this.RoomLable.Size = new System.Drawing.Size(31, 15);
             this.RoomLable.TabIndex = 10;
@@ -149,7 +152,7 @@
             // RemarkLable
             // 
             this.RemarkLable.AutoSize = true;
-            this.RemarkLable.Location = new System.Drawing.Point(207, 314);
+            this.RemarkLable.Location = new System.Drawing.Point(144, 142);
             this.RemarkLable.Name = "RemarkLable";
             this.RemarkLable.Size = new System.Drawing.Size(87, 15);
             this.RemarkLable.TabIndex = 11;
@@ -159,7 +162,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(633, 593);
+            this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.ClientSize = new System.Drawing.Size(351, 302);
             this.Controls.Add(this.RemarkLable);
             this.Controls.Add(this.RoomLable);
             this.Controls.Add(this.TimeLable);
@@ -172,6 +176,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.CheckOK);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "ChangeStatus";
             this.Text = "来访申请详情";
             this.ResumeLayout(false);
