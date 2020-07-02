@@ -1,0 +1,62 @@
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatServer\ChatServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatServer\ChatServer\obj\x86\Debug\ChatServer.FServer.resources
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatServer\ChatServer\obj\x86\Debug\ChatServer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatServer\ChatServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatServer\ChatServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatServer\ChatServer\obj\x86\Debug\ChatServer.exe
+C:\Documents and Settings\Administrator\桌面\聊天程序-支持文件发送\ChatServer\ChatServer\obj\x86\Debug\ChatServer.pdb
+C:\Documents and Settings\Administrator\桌面\ChatServer2\ChatServer2\ChatServer\obj\x86\Debug\ChatServer.exe
+C:\Documents and Settings\Administrator\桌面\ChatServer2\ChatServer2\ChatServer\obj\x86\Debug\ChatServer.pdb
+C:\Documents and Settings\Administrator\桌面\ChatServer2\ChatServer2\ChatServer\bin\Debug\ChatServer.exe
+C:\Documents and Settings\Administrator\桌面\ChatServer2\ChatServer2\ChatServer\bin\Debug\ChatServer.pdb
+C:\Documents and Settings\Administrator\桌面\ChatServer2\ChatServer2\ChatServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ChatServer2\ChatServer2\ChatServer\obj\x86\Debug\ChatServer.FServer.resources
+C:\Documents and Settings\Administrator\桌面\ChatServer2\ChatServer2\ChatServer\obj\x86\Debug\ChatServer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ChatServer2\ChatServer2\ChatServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\ChatServer2\ChatServer2\ChatServer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatServer2\ChatServer\obj\x86\Debug\ChatServer.exe
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatServer2\ChatServer\obj\x86\Debug\ChatServer.pdb
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatServer2\ChatServer\bin\Debug\ChatServer.exe
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatServer2\ChatServer\bin\Debug\ChatServer.pdb
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatServer2\ChatServer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatServer2\ChatServer\obj\x86\Debug\ChatServer.FServer.resources
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatServer2\ChatServer\obj\x86\Debug\ChatServer.Properties.Resources.resources
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatServer2\ChatServer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现二[文件发送]\ChatServer2\ChatServer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatServer2\ChatServer\obj\x86\Debug\ChatServer.exe
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatServer2\ChatServer\obj\x86\Debug\ChatServer.pdb
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatServer2\ChatServer\bin\Debug\ChatServer.exe
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatServer2\ChatServer\bin\Debug\ChatServer.pdb
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatServer2\ChatServer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatServer2\ChatServer\obj\x86\Debug\ChatServer.FServer.resources
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatServer2\ChatServer\obj\x86\Debug\ChatServer.Properties.Resources.resources
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatServer2\ChatServer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatServer2\ChatServer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatServer3\ChatServer\obj\x86\Debug\ChatServer.exe
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatServer3\ChatServer\obj\x86\Debug\ChatServer.pdb
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatServer3\ChatServer\obj\x86\Debug\ChatServer.FServer.resources
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatServer3\ChatServer\obj\x86\Debug\ChatServer.Properties.Resources.resources
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatServer3\ChatServer\bin\Debug\ChatServer.exe
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatServer3\ChatServer\bin\Debug\ChatServer.pdb
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatServer3\ChatServer\obj\x86\Debug\ChatServer.csproj.GenerateResource.Cache
+D:\study\博客园cnblogs\博客日志\C#日志\基于C# winform的简易聊天程序的实现三[信息群发]\ChatServer3\ChatServer\obj\x86\Debug\ChatServer.csprojResolveAssemblyReference.cache
+D:\0f013eba\socket通信\ChatServer3\ChatServer\bin\Debug\ChatServer.exe
+D:\0f013eba\socket通信\ChatServer3\ChatServer\bin\Debug\ChatServer.pdb
+D:\0f013eba\socket通信\ChatServer3\ChatServer\obj\x86\Debug\ChatServer.csprojAssemblyReference.cache
+D:\0f013eba\socket通信\ChatServer3\ChatServer\obj\x86\Debug\ChatServer.FServer.resources
+D:\0f013eba\socket通信\ChatServer3\ChatServer\obj\x86\Debug\ChatServer.Properties.Resources.resources
+D:\0f013eba\socket通信\ChatServer3\ChatServer\obj\x86\Debug\ChatServer.csproj.GenerateResource.cache
+D:\0f013eba\socket通信\ChatServer3\ChatServer\obj\x86\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\0f013eba\socket通信\ChatServer3\ChatServer\obj\x86\Debug\ChatServer.exe
+D:\0f013eba\socket通信\ChatServer3\ChatServer\obj\x86\Debug\ChatServer.pdb
+C:\Users\Celia\source\repos\ErrandService\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Celia\source\repos\ErrandService\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Celia\source\repos\ErrandService\ChatServer\ChatServer\obj\x86\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\Celia\source\repos\ErrandService\ChatServer\ChatServer\obj\x86\Debug\ChatServer.FServer.resources
+C:\Users\Celia\source\repos\ErrandService\ChatServer\ChatServer\obj\x86\Debug\ChatServer.Properties.Resources.resources
+C:\Users\Celia\source\repos\ErrandService\ChatServer\ChatServer\obj\x86\Debug\ChatServer.csproj.GenerateResource.cache
+C:\Users\Celia\source\repos\ErrandService\ChatServer\ChatServer\obj\x86\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Celia\source\repos\ErrandService\ChatServer\ChatServer\obj\x86\Debug\ChatServer.exe
+C:\Users\Celia\source\repos\ErrandService\ChatServer\ChatServer\obj\x86\Debug\ChatServer.pdb
