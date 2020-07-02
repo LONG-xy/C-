@@ -1,0 +1,40 @@
+C:\Users\HY\Desktop\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HY\Desktop\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HY\Desktop\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\HY\Desktop\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\DormManagementWeb.exe
+C:\Users\HY\Desktop\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\DormManagementWeb.csprojAssemblyReference.cache
+C:\Users\HY\Desktop\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\staticwebassets\DormManagementWeb.StaticWebAssets.Manifest.cache
+C:\Users\HY\Desktop\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\staticwebassets\DormManagementWeb.StaticWebAssets.xml
+C:\Users\HY\Desktop\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\DormManagementWeb.AssemblyInfoInputs.cache
+C:\Users\HY\Desktop\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\DormManagementWeb.AssemblyInfo.cs
+C:\Users\HY\Desktop\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\DormManagementWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\DormManagementWeb.exe
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\DormManagementWeb.deps.json
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\DormManagementWeb.runtimeconfig.json
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\DormManagementWeb.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\DormManagementWeb.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\DormManagementWeb.pdb
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\DormManagementWeb.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\DormManagementWeb.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\DormManagementWeb.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\DormManagementWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\DormManagementWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\DormManagementWeb.csproj.CopyComplete
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\staticwebassets\DormManagementWeb.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\staticwebassets\DormManagementWeb.StaticWebAssets.xml
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\DormManagementWeb.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\DormManagementWeb.pdb
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\DormManagementWeb.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementWeb\obj\Debug\netcoreapp3.1\DormManagementWeb.csprojAssemblyReference.cache
