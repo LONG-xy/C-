@@ -1,0 +1,106 @@
+D:\Desktop\app\bin\Debug\app.exe.config
+D:\Desktop\app\bin\Debug\app.exe
+D:\Desktop\app\bin\Debug\app.pdb
+D:\Desktop\app\bin\Debug\MySql.Data.dll
+D:\Desktop\app\bin\Debug\Google.Protobuf.dll
+D:\Desktop\app\bin\Debug\BouncyCastle.Crypto.dll
+D:\Desktop\app\bin\Debug\Ubiety.Dns.Core.dll
+D:\Desktop\app\bin\Debug\Renci.SshNet.dll
+D:\Desktop\app\bin\Debug\MySql.Data.xml
+D:\Desktop\app\obj\Debug\app.csprojAssemblyReference.cache
+D:\Desktop\app\obj\Debug\app.drom.resources
+D:\Desktop\app\obj\Debug\app.repairAdd.resources
+D:\Desktop\app\obj\Debug\app.student.resources
+D:\Desktop\app\obj\Debug\app.Properties.Resources.resources
+D:\Desktop\app\obj\Debug\app.manage.resources
+D:\Desktop\app\obj\Debug\app.csproj.GenerateResource.cache
+D:\Desktop\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+D:\Desktop\app\obj\Debug\app.csproj.CopyComplete
+D:\Desktop\app\obj\Debug\app.exe
+D:\Desktop\app\obj\Debug\app.pdb
+D:\Desktop\app\obj\Debug\app.alter.resources
+D:\Desktop\app\obj\Debug\app.Sno.resources
+D:\Desktop\app\obj\Debug\app.select.resources
+C:\Users\XM\Desktop\app\bin\Debug\app.exe.config
+C:\Users\XM\Desktop\app\bin\Debug\app.exe
+C:\Users\XM\Desktop\app\bin\Debug\app.pdb
+C:\Users\XM\Desktop\app\bin\Debug\Google.Protobuf.dll
+C:\Users\XM\Desktop\app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\XM\Desktop\app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\XM\Desktop\app\bin\Debug\Renci.SshNet.dll
+C:\Users\XM\Desktop\app\bin\Debug\MySql.Data.xml
+C:\Users\XM\Desktop\app\obj\Debug\app.csprojAssemblyReference.cache
+C:\Users\XM\Desktop\app\obj\Debug\app.alter.resources
+C:\Users\XM\Desktop\app\obj\Debug\app.drom.resources
+C:\Users\XM\Desktop\app\obj\Debug\app.repairAdd.resources
+C:\Users\XM\Desktop\app\obj\Debug\app.select.resources
+C:\Users\XM\Desktop\app\obj\Debug\app.Sno.resources
+C:\Users\XM\Desktop\app\obj\Debug\app.student.resources
+C:\Users\XM\Desktop\app\obj\Debug\app.Properties.Resources.resources
+C:\Users\XM\Desktop\app\obj\Debug\app.manage.resources
+C:\Users\XM\Desktop\app\obj\Debug\app.csproj.GenerateResource.cache
+C:\Users\XM\Desktop\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\XM\Desktop\app\obj\Debug\app.csproj.CopyComplete
+C:\Users\XM\Desktop\app\obj\Debug\app.exe
+C:\Users\XM\Desktop\app\obj\Debug\app.pdb
+C:\Users\XM\Desktop\app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\XM\Desktop\app\bin\Debug\Newtonsoft.Json.xml
+C:\Users\XM\Desktop\app\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\XM\Desktop\app\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\XM\Desktop\app\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\XM\Desktop\app\bin\Debug\MySql.Data.dll
+C:\Users\XM\Desktop\app\bin\Debug\System.Buffers.dll
+C:\Users\XM\Desktop\app\bin\Debug\System.Memory.dll
+C:\Users\XM\Desktop\app\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\XM\Desktop\app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\XM\Desktop\app\bin\Debug\Zstandard.Net.dll
+C:\Users\XM\Desktop\app\bin\Debug\Google.Protobuf.xml
+C:\Users\XM\Desktop\app\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\XM\Desktop\app\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\XM\Desktop\app\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\XM\Desktop\app\bin\Debug\Renci.SshNet.xml
+C:\Users\XM\Desktop\app\bin\Debug\System.Buffers.xml
+C:\Users\XM\Desktop\app\bin\Debug\System.Memory.xml
+C:\Users\XM\Desktop\app\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\XM\Desktop\app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\app.exe.config
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\app.exe
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\app.pdb
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\BouncyCastle.Crypto.dll
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\Google.Protobuf.dll
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\K4os.Compression.LZ4.dll
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\K4os.Hash.xxHash.dll
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\MySql.Data.dll
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\Newtonsoft.Json.dll
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\Renci.SshNet.dll
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\System.Buffers.dll
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\System.Memory.dll
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\System.Numerics.Vectors.dll
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\Ubiety.Dns.Core.dll
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\Zstandard.Net.dll
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\Google.Protobuf.xml
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\K4os.Compression.LZ4.xml
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\K4os.Hash.xxHash.xml
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\MySql.Data.xml
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\Newtonsoft.Json.xml
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\Renci.SshNet.xml
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\System.Buffers.xml
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\System.Memory.xml
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\System.Numerics.Vectors.xml
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\obj\Debug\app.alter.resources
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\obj\Debug\app.drom.resources
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\obj\Debug\app.repairAdd.resources
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\obj\Debug\app.select.resources
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\obj\Debug\app.Sno.resources
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\obj\Debug\app.student.resources
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\obj\Debug\app.Properties.Resources.resources
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\obj\Debug\app.manage.resources
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\obj\Debug\app.csproj.GenerateResource.cache
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\obj\Debug\app.csproj.CopyComplete
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\obj\Debug\app.exe
+E:\Project\代码合并\zhu jie mian jia bao xiu\app\obj\Debug\app.pdb

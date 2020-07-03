@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DormManagementApp", "DormManagementApp\DormManagementApp.csproj", "{EF528AC3-13D6-4F9E-B6DD-078C92D0C8D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DormManagementWeb", "DormManagementWeb\DormManagementWeb.csproj", "{EEC7A470-8D60-4C15-9D1A-EDD79CF19EB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF528AC3-13D6-4F9E-B6DD-078C92D0C8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF528AC3-13D6-4F9E-B6DD-078C92D0C8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF528AC3-13D6-4F9E-B6DD-078C92D0C8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF528AC3-13D6-4F9E-B6DD-078C92D0C8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC7A470-8D60-4C15-9D1A-EDD79CF19EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC7A470-8D60-4C15-9D1A-EDD79CF19EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC7A470-8D60-4C15-9D1A-EDD79CF19EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC7A470-8D60-4C15-9D1A-EDD79CF19EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73B179AB-2B24-4149-A5F8-8A480213351F}
+	EndGlobalSection
+EndGlobal

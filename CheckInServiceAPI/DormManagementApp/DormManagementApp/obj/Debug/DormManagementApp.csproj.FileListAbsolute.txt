@@ -1,0 +1,69 @@
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\bin\Debug\DormManagementApp.exe.config
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\bin\Debug\DormManagementApp.exe
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\bin\Debug\DormManagementApp.pdb
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.AddDomitory.resources
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.AddStudent.resources
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.CheckIn.resources
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.CheckInMain.resources
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.DomitoryMain.resources
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.Main.resources
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.Properties.Resources.resources
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.StudentMain.resources
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.csproj.CopyComplete
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.exe
+C:\Users\Administrator\source\repos\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.pdb
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.AddDomitory.resources
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.AddStudent.resources
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.CheckIn.resources
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.DomitoryMain.resources
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.Main.resources
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.Properties.Resources.resources
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.StudentMain.resources
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.csproj.GenerateResource.cache
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.exe
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.pdb
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\bin\Debug\DormManagementApp.exe.config
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\bin\Debug\DormManagementApp.exe
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\bin\Debug\DormManagementApp.pdb
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\bin\Debug\EntityFramework.dll
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\bin\Debug\MySql.Data.dll
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\bin\Debug\EntityFramework.xml
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.csproj.CopyComplete
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\HY\Desktop\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.AddDomitory.resources
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.AddStudent.resources
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.CheckIn.resources
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.DomitoryMain.resources
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.Main.resources
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.Properties.Resources.resources
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.StudentMain.resources
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.exe
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.pdb
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\bin\Debug\DormManagementApp.exe.config
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\bin\Debug\DormManagementApp.exe
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\bin\Debug\DormManagementApp.pdb
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.ModifyStudent.resources
+C:\Users\Administrator\Documents\Tencent Files\248478344\FileRecv\MobileFile\DormManagementApp(2)\DormManagementApp\DormManagementApp\obj\Debug\DormManagementApp.csproj.CopyComplete

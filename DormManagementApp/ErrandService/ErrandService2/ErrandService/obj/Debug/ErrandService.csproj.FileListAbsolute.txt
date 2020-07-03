@@ -1,0 +1,859 @@
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\ErrandService.exe.config
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\ErrandService.exe
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\ErrandService.pdb
+C:\Users\Celia\source\repos\ErrandService\ErrandService\obj\Debug\ErrandService.csprojAssemblyReference.cache
+C:\Users\Celia\source\repos\ErrandService\ErrandService\obj\Debug\ErrandService.Properties.Resources.resources
+C:\Users\Celia\source\repos\ErrandService\ErrandService\obj\Debug\ErrandService.csproj.GenerateResource.cache
+C:\Users\Celia\source\repos\ErrandService\ErrandService\obj\Debug\ErrandService.csproj.CoreCompileInputs.cache
+C:\Users\Celia\source\repos\ErrandService\ErrandService\obj\Debug\ErrandService.exe
+C:\Users\Celia\source\repos\ErrandService\ErrandService\obj\Debug\ErrandService.pdb
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\netstandard.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.AppContext.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Collections.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.ComponentModel.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Console.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Data.Common.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Globalization.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.IO.Compression.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.IO.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.IO.Pipes.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Linq.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Net.Http.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Net.Ping.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Net.Primitives.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Net.Requests.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Net.Security.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Net.Sockets.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.ObjectModel.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Reflection.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Resources.Reader.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Resources.Writer.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Runtime.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Security.Claims.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Security.Principal.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Security.SecureString.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Text.Encoding.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Threading.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Threading.Thread.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Threading.Timer.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.ValueTuple.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Xml.XPath.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\EntityFramework.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\Google.Protobuf.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\MySql.Data.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\Renci.SshNet.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Buffers.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Memory.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\Zstandard.Net.dll
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\EntityFramework.xml
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\Google.Protobuf.xml
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\MySql.Data.xml
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\Renci.SshNet.xml
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Buffers.xml
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Memory.xml
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Celia\source\repos\ErrandService\ErrandService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Celia\source\repos\ErrandService\ErrandService\obj\Debug\ErrandService.exe.config
+C:\Users\Celia\source\repos\ErrandService\ErrandService\obj\Debug\ErrandService.csproj.CopyComplete
+C:\Users\Celia\source\repos\ErrandService\ErrandService\obj\Debug\DormManagementApp.FClient.resources
+C:\Users\Celia\source\repos\ErrandService\ErrandService\obj\Debug\DormManagementApp.Form1.resources
+C:\Users\Celia\source\repos\ErrandService\ErrandService\obj\Debug\DormManagementApp.HistoryOrder.resources
+C:\Users\Celia\source\repos\ErrandService\ErrandService\obj\Debug\DormManagementApp.OrderPublishForm.resources
+C:\Users\Celia\source\repos\ErrandService\ErrandService\obj\Debug\DormManagementApp.ShowDetail.resources
+C:\Users\Celia\source\repos\ErrandService\ErrandService\obj\Debug\DormManagementApp.TakeOrder.resources
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\ErrandService.exe.config
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\ErrandService.exe
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\ErrandService.pdb
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\netstandard.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.AppContext.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Collections.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Console.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Data.Common.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Globalization.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.IO.Compression.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.IO.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.IO.Pipes.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Linq.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Net.Http.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Net.Ping.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Net.Primitives.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Net.Requests.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Net.Security.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Net.Sockets.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.ObjectModel.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Reflection.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Resources.Reader.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Resources.Writer.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Runtime.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Security.Claims.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Security.Principal.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Security.SecureString.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Text.Encoding.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Threading.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Threading.Thread.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Threading.Timer.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.ValueTuple.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Xml.XPath.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\EntityFramework.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\Google.Protobuf.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\MySql.Data.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\Renci.SshNet.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Buffers.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Memory.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\Zstandard.Net.dll
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\EntityFramework.xml
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\Google.Protobuf.xml
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\MySql.Data.xml
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\Renci.SshNet.xml
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Buffers.xml
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Memory.xml
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\obj\Debug\ErrandService.csprojAssemblyReference.cache
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\obj\Debug\ErrandService.exe.config
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\obj\Debug\DormManagementApp.FClient.resources
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\obj\Debug\DormManagementApp.HistoryOrder.resources
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\obj\Debug\DormManagementApp.OrderPublishForm.resources
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\obj\Debug\ErrandService.Properties.Resources.resources
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\obj\Debug\DormManagementApp.ShowDetail.resources
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\obj\Debug\DormManagementApp.TakeOrder.resources
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\obj\Debug\ErrandService.csproj.GenerateResource.cache
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\obj\Debug\ErrandService.csproj.CoreCompileInputs.cache
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\obj\Debug\ErrandService.csproj.CopyComplete
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\obj\Debug\ErrandService.exe
+C:\Users\Celia\source\repos\ErrandService2\ErrandService\obj\Debug\ErrandService.pdb
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\ErrandService.exe.config
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\ErrandService.exe
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\ErrandService.pdb
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\netstandard.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.AppContext.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Collections.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Console.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Data.Common.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Globalization.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.IO.Compression.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.IO.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.IO.Pipes.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Linq.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Net.Http.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Net.Ping.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Net.Primitives.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Net.Requests.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Net.Security.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Net.Sockets.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.ObjectModel.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Reflection.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Resources.Reader.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Resources.Writer.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Runtime.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Security.Claims.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Security.Principal.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Security.SecureString.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Text.Encoding.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Threading.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Threading.Thread.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Threading.Timer.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.ValueTuple.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Xml.XPath.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\EntityFramework.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\Google.Protobuf.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\MySql.Data.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\Renci.SshNet.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Buffers.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Memory.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\Zstandard.Net.dll
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\EntityFramework.xml
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\Google.Protobuf.xml
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\MySql.Data.xml
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\Renci.SshNet.xml
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Buffers.xml
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Memory.xml
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\obj\Debug\ErrandService.csprojAssemblyReference.cache
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\obj\Debug\ErrandService.exe.config
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\obj\Debug\DormManagementApp.FClient.resources
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\obj\Debug\DormManagementApp.HistoryOrder.resources
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\obj\Debug\DormManagementApp.OrderPublishForm.resources
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\obj\Debug\ErrandService.Properties.Resources.resources
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\obj\Debug\DormManagementApp.ShowDetail.resources
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\obj\Debug\DormManagementApp.TakeOrder.resources
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\obj\Debug\ErrandService.csproj.GenerateResource.cache
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\obj\Debug\ErrandService.csproj.CoreCompileInputs.cache
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\obj\Debug\ErrandService.csproj.CopyComplete
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\obj\Debug\ErrandService.exe
+C:\Users\Celia\Desktop\ErrandService2\ErrandService\obj\Debug\ErrandService.pdb
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\ErrandService.exe.config
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\ErrandService.exe
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\ErrandService.pdb
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\netstandard.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.AppContext.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Collections.Concurrent.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Collections.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Collections.NonGeneric.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Collections.Specialized.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Console.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Data.Common.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Debug.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Process.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Tools.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Drawing.Primitives.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Dynamic.Runtime.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Globalization.Calendars.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Globalization.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Globalization.Extensions.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.Compression.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.Pipes.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Linq.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Linq.Expressions.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Linq.Parallel.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Linq.Queryable.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.Http.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.NameResolution.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.NetworkInformation.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.Ping.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.Primitives.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.Requests.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.Security.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.Sockets.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.WebSockets.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.ObjectModel.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Reflection.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Reflection.Extensions.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Reflection.Primitives.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Resources.Reader.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Resources.ResourceManager.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Resources.Writer.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.Extensions.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.Handles.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.InteropServices.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.Numerics.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Security.Claims.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Security.Principal.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Security.SecureString.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Text.Encoding.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Text.RegularExpressions.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Threading.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Threading.Overlapped.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Threading.Tasks.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Threading.Thread.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Threading.ThreadPool.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Threading.Timer.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.ValueTuple.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Xml.XDocument.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Xml.XmlDocument.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Xml.XPath.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\BouncyCastle.Crypto.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\EntityFramework.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\Google.Protobuf.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\K4os.Hash.xxHash.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\MySql.Data.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\MySql.Data.EntityFramework.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\Renci.SshNet.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Buffers.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Memory.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Numerics.Vectors.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\Ubiety.Dns.Core.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\Zstandard.Net.dll
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\EntityFramework.xml
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\Google.Protobuf.xml
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.xml
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\K4os.Hash.xxHash.xml
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\MySql.Data.xml
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\MySql.Data.EntityFramework.xml
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\Renci.SshNet.xml
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Buffers.xml
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Memory.xml
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Numerics.Vectors.xml
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.csprojAssemblyReference.cache
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.exe.config
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\DormManagementApp.FClient.resources
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\DormManagementApp.HistoryOrder.resources
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\DormManagementApp.OrderPublishForm.resources
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.Properties.Resources.resources
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\DormManagementApp.ShowDetail.resources
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\DormManagementApp.TakeOrder.resources
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.csproj.GenerateResource.cache
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.csproj.CoreCompileInputs.cache
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.csproj.CopyComplete
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.exe
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.pdb
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.OrderPublish.resources
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.ShowDetail.resources
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.ShowDetailForm.resources
+E:\Project\代码合并\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.TakeOrderForm.resources
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\ErrandService.exe.config
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\ErrandService.exe
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\ErrandService.pdb
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\netstandard.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.AppContext.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Collections.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Console.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Data.Common.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Globalization.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.Compression.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.Pipes.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Linq.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.Http.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.Ping.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.Primitives.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.Requests.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.Security.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.Sockets.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.ObjectModel.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Reflection.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Resources.Reader.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Resources.Writer.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Security.Claims.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Security.Principal.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Security.SecureString.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Text.Encoding.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Threading.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Threading.Thread.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Threading.Timer.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.ValueTuple.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Xml.XPath.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\EntityFramework.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\Google.Protobuf.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\MySql.Data.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\Renci.SshNet.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Buffers.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Memory.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\Zstandard.Net.dll
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\EntityFramework.xml
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\Google.Protobuf.xml
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\MySql.Data.xml
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\Renci.SshNet.xml
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Buffers.xml
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Memory.xml
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.csprojAssemblyReference.cache
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.exe.config
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.ShowDetail.resources
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.OrderPublish.resources
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.Properties.Resources.resources
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.ShowDetailForm.resources
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.TakeOrderForm.resources
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.csproj.GenerateResource.cache
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.csproj.CoreCompileInputs.cache
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.csproj.CopyComplete
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.exe
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\ErrandService.pdb
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\TakeOutManagement.FClient.resources
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\TakeOutManagement.HistoryOrder.resources
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\TakeOutManagement.OrderPublishForm.resources
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\TakeOutManagement.ShowDetail.resources
+C:\Users\Celia\Documents\Tencent Files\1830170706\FileRecv\UI修改\ErrandService2(1)\ErrandService2\ErrandService\obj\Debug\TakeOutManagement.TakeOrder.resources
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\ErrandService.exe.config
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\ErrandService.exe
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\ErrandService.pdb
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\netstandard.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.AppContext.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Collections.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Collections.Specialized.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Console.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Data.Common.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Globalization.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.IO.Compression.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.IO.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.IO.Pipes.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Linq.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Linq.Expressions.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Linq.Parallel.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Linq.Queryable.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Net.Http.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Net.NameResolution.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Net.Ping.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Net.Primitives.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Net.Requests.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Net.Security.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Net.Sockets.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Net.WebSockets.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.ObjectModel.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Reflection.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Resources.Reader.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Resources.Writer.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Runtime.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Runtime.Handles.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Security.Claims.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Security.Principal.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Security.SecureString.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Text.Encoding.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Threading.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Threading.Tasks.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Threading.Thread.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Threading.Timer.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.ValueTuple.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Xml.XDocument.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Xml.XPath.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\EntityFramework.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\Google.Protobuf.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\MySql.Data.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\Renci.SshNet.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Buffers.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Memory.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\Zstandard.Net.dll
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\EntityFramework.xml
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\Google.Protobuf.xml
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\MySql.Data.xml
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\Renci.SshNet.xml
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Buffers.xml
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Memory.xml
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\obj\Debug\ErrandService.csprojAssemblyReference.cache
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\obj\Debug\ErrandService.exe.config
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\obj\Debug\TakeOutManagement.FClient.resources
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\obj\Debug\TakeOutManagement.HistoryOrder.resources
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\obj\Debug\ErrandService.ShowDetail.resources
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\obj\Debug\ErrandService.OrderPublish.resources
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\obj\Debug\TakeOutManagement.OrderPublishForm.resources
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\obj\Debug\ErrandService.Properties.Resources.resources
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\obj\Debug\TakeOutManagement.ShowDetail.resources
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\obj\Debug\ErrandService.ShowDetailForm.resources
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\obj\Debug\TakeOutManagement.TakeOrder.resources
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\obj\Debug\ErrandService.TakeOrderForm.resources
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\obj\Debug\ErrandService.csproj.GenerateResource.cache
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\obj\Debug\ErrandService.csproj.CoreCompileInputs.cache
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\obj\Debug\ErrandService.csproj.CopyComplete
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\obj\Debug\ErrandService.exe
+C:\Users\24274\Desktop\DormManagementApp(1)\DormManagementApp\ErrandService\ErrandService2\ErrandService\obj\Debug\ErrandService.pdb
