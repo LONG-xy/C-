@@ -1,3 +1,4 @@
 # C#大作业
 
 学生信息管理系统
+陶思晗负责的CheckInService的客户端部分在DomeManageApp的View和Entity的CheckInService中，API在CheckInServiceAPI中.
